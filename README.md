@@ -21,23 +21,11 @@ Este projeto implementa uma **API REST** para gerenciar transações financeiras
     ```
 
 2. **Instale as dependências**:
-    Se você estiver usando Maven:
-    ```bash
-    mvn install
-    ```
-
-    Ou, se estiver usando Gradle:
     ```bash
     gradle build
     ```
 
 3. **Execute a aplicação**:
-    Se você estiver usando Maven:
-    ```bash
-    mvn spring-boot:run
-    ```
-
-    Ou, se estiver usando Gradle:
     ```bash
     gradle bootRun
     ```
