@@ -1,0 +1,5 @@
+package com.schneiderdev.api_transacao.controller.dtos;
+
+public record EstatisticasResponseDTO(Long count, Double sum, Double avg, Double min, Double max) {
+    
+}
